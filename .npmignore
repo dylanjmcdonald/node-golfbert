@@ -1,0 +1,7 @@
+.editorconfig
+.eslintrc.js
+.prettierrc
+.idea
+.nyc_output
+.vscode
+.DS_Store
