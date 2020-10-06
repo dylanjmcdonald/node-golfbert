@@ -12,6 +12,7 @@ Please reference https://golfbert.com/api/docs for additional parameters to pass
 ### Instantiate Client
 
 ```javascript
+const Golfbert = require('node-golfbert');
 const golfbert = new Golfbert({
   apiKey: 'GOLFBERT_API_KEY',
   accessKey: 'GOLFBERT_ACCESS_KEY',
